@@ -1,0 +1,13 @@
+body{
+
+	background-repeat: no-repeat;
+	background-image: url(track.jpg);
+	background-size: 300%;
+}
+h1{
+	font-style: italic;
+	color: pink;
+}
+p{
+	color: white;
+}

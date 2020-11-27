@@ -1,0 +1,25 @@
+body{
+
+	background-repeat: no-repeat;
+	background-color: pink;
+}
+a{
+
+	text-decoration: blue;
+	color: blue;
+}
+a:hover{
+	color:orange;
+}
+h1{
+	font-family: Source serif pro light;
+	color: purple;
+}
+h2{
+	font-family: source serif pro light;
+	color: purple;
+}
+h3{
+	font-style: italic;
+	color: blue;
+}
